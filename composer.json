@@ -1,5 +1,5 @@
 {
-    "name": "besimple/soap",
+    "name": "kmgirus/besimplesoap",
     "type": "library",
     "description": "Build and consume SOAP and WSDL based web services",
     "keywords": ["soap"],
@@ -24,8 +24,8 @@
         "ext-soap": "*",
         "ext-curl": "*",
         "ass/xmlsecurity": "~1.0",
-        "symfony/framework-bundle": "~2.6",
-        "symfony/twig-bundle": "~2.6",
+        "symfony/framework-bundle": "^2.7 || ^3.0",
+        "symfony/twig-bundle": "^2.7 || ^3.0",
         "zendframework/zend-mime": "2.1.*"
     },
     "replace": {
